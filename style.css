@@ -1,0 +1,120 @@
+body {
+    background-image: url(whitetiger.jpg);
+    background-size: cover;
+    font-size: larger;
+}
+.picture {
+    width: 300px;
+    margin-left: 38%;
+    margin-right: 38%;
+    border-radius: 500px;
+}
+.about {
+text-shadow: 6px 6px 15px black;
+text-align: center;
+font-size: xx-large;
+background-color: rgb(199, 44, 65,);
+border: 25px solid #44000D;
+margin-left: 30%;
+margin-right: 30%;
+}
+h3 {
+    text-align: center;
+    border-top: 10px solid #87556f;
+    border-bottom: 10px solid #44000D;
+    background-color: #C72C41;
+    margin-left: 38%;
+    margin-right: 38%;
+    font-family: cursive;
+    text-shadow: 6px 6px 15px black;
+}
+p {
+    font-family: aladin;
+    text-align: center;
+}
+p::first-letter {
+    font-size: 250%;
+}
+a {
+    text-align: center;
+    font-size: 100%;
+    font-family: cursive;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: yellow;
+}
+a:visited {
+    color: blue;
+}
+.prompt {
+    color: white;
+    border-top: 5px dashed #44000D;
+    border-bottom: 5px dashed #44000D;
+}
+.contact {
+    color: #44000D;
+    border-top: 5px dashed #44000D;
+    border-bottom: 5px dashed #44000D;
+}
+textarea {
+    background-color: white;
+}
+.instagram {
+    width: 30px;
+    margin-bottom: -9px;
+}
+.facebook {
+    width: 20px;
+    margin-bottom: -5px;
+}
+.whatsapp {
+    width: 20px;
+    margin-bottom: -5px;
+}
+ul {
+    margin-left: 42%;
+    margin-right: 35%;
+}
+.topnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 50px 50px ;
+    font-size: x-large;
+    color: rgb(199, 44, 65);
+}
+.form {
+    background-color: rgb(199, 44, 65, 0.5);
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+border: 40px solid rgb(199, 44, 65, 0.2);
+}
+.fieldset {
+    background-color: rgb(135, 85, 111, 0.5);
+}
+.footer {
+    background-color: rgb(135, 85, 111, 0.5);
+    border: 20px solid rgb(199, 44, 65, 0.5);
+}
+.header {
+    background-color: rgb(135, 85, 111, 0.5);
+    border: 20px solid rgb(199, 44, 65, 0.5);
+}
+.p1 {
+    background-color: rgb(68, 0, 13, 0.3);
+    border: 10px dashed #c72c41;
+    color: #87556f;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.p2 {
+    background-color: rgb(68, 0, 13, 0.5);
+    border: 10px dashed #c72c41;
+    color: #87556f;
+    margin-left: 30%;
+    margin-right: 30%;
+}
